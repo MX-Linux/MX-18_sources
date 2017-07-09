@@ -1,0 +1,2 @@
+# Use with Debian Stable/Jessie repositories. Set as default for antiX-16.
+deb http://antix.daveserver.info/stretch stretch main    
